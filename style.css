@@ -11,8 +11,9 @@ body {
 
 .navbar {
     background: #6893AE;
-    color: var(--white: #fff);
+
 }
+
 
 .links {
     color: black;
